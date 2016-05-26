@@ -196,6 +196,14 @@ For some reason, the TOC section assumes the style ```display: block``` which wi
 
 Now, different markdown handlers process markdown differently. Table of Contents will create an anchor tag for every headline. But this is not supported by all the markdown processors. **Kramdown** is good with it but if you are using **redcarpet** or **rdiscount** you have to make some changes in the **_config.yml** file.
 
+
+<div class="note">
+    <h3>Note</h3>
+    <p>I suggest you change the markdown processor to <strong>kramdown</strong> as it is the <a href="https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0" target="_blank">only supported markdown engine</a> by github pages.</p>
+</div>
+
+
+
 **redcarpet**
 {% highlight css %}
 markdown: redcarpet
