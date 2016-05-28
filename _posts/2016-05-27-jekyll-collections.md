@@ -1,6 +1,6 @@
 ---
 title: What is Jekyll Collections and how to use it?
-desc: Jekyll collections is a set of items which cannot be grouped into a post or page. For example, a collection of stamps, books, cakes etc. It is very easy to create and organize multiple collections on a Jekyll blog. Learn how I created a Jekyll theme collection for my blog.
+desc: Jekyll collections is a set of items which cannot be grouped into a post or page. For example, a collection of stamps, books, cakes etc. It is very easy to create and organize multiple collections on a Jekyll blog.
 keywords: 
 author: sharathdt
 image: jekyll-collection.svg
