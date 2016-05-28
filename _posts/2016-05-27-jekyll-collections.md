@@ -121,6 +121,8 @@ Since the theme is based on default Jekyll theme, it is very light-weight. No Ja
 
 {% endraw %}{% endhighlight %}
 
+{% include adsense-inside-post.html %}
+
 
 ## Jekyll collection index
 
