@@ -50,7 +50,7 @@ If you are looking for a modern, fast loading, visually appealing website, then 
     </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript' src='/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 
 <p></p>
 
@@ -58,6 +58,8 @@ If you are looking for a modern, fast loading, visually appealing website, then 
 
 ## Major changes
 <pre>
+
+25th May - Sitemap link was replaced with Themes. A new Jekyll theme collection.
 
 30th April - Some speed optimization and changed paragraph font to Source serif pro.
 

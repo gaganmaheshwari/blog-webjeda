@@ -46,7 +46,11 @@ p {
     background: transparent;
 }
 
-
+h1 {
+    font-size: 2.5em;
+    font-weight: 600;
+    
+}
 
 h2 {
     font-size: 2em;
@@ -238,6 +242,12 @@ pre {
     -webkit-transition-delay: 0.2s;
     transition-duration: 0.2s;
     transition-property:all;
+}
+
+h1.post-title {
+    border-bottom: 1px solid #eee;
+    line-height: 2;
+    font-size: 4em;
 }
 
 #post-title:hover {
