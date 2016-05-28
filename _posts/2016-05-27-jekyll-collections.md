@@ -141,13 +141,13 @@ So I have two themes in my Theme collection. How to show them on a page? we have
 
 Above liquid syntax will find all the theme files inside **_themes** folder and list them out along with their title and description. I have also included images in my theme collection using {{page.image}}. For simplicity, I haven't included it here. This will render a theme list like this.
 
-![jekyll collection homepage](/images/jekyll-collection-homepage.jpg)
+![jekyll collection homepage](/images/jekyll-collection-homepage.JPG)
 {: .centered}
 
 
 By clicking on one of them will open up the theme file we created in the beginning. which will look something like this
 
-![jekyll collection main page ](/images/jekyll-collections-main-page.jpg)
+![jekyll collection main page ](/images/jekyll-collections-main-page.JPG)
 {: .centered}
 
 
