@@ -1,6 +1,6 @@
 ---
-title: SSL certificate for Jekyll
-desc: https has an advantage in SEO over http URLs. It is easy to set up SSL for Jekyll using CloudFlare. Learn how to get a free SSL certificate for your Jekyll blog. Also, find out the advantages and disadvantages of using SSL on your website.
+title: SSL certificate (https) for Jekyll
+desc: Https has an advantage in SEO over http. It is easy to set up SSL for Jekyll using CloudFlare. Learn how to get a free SSL certificate for your Jekyll blog. Also, find out the advantages and disadvantages of using SSL on your website.
 keywords: 
 author: sharathdt
 tags: Jekyll SEO Github-Pages 
