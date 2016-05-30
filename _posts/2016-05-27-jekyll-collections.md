@@ -142,16 +142,18 @@ So I have two themes in my Theme collection. How to show them on a page? we have
 {% endraw %}{% endhighlight %}
 
 Above liquid syntax will find all the theme files inside **_themes** folder and list them out along with their title and description. I have also included images in my theme collection using {{page.image}}. For simplicity, I haven't included it here. This will render a theme list like this.
+<div style="border: 1px solid #aaa">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 639.007 213.476" >
+<text transform="matrix(1 0 0 1 21.2764 29.0781)"><tspan x="0" y="0" style="fill:#3B97D3; font-family:'Helvetica'; font-size:24;font-weight:bold">Purple</tspan><tspan x="0" y="14.4" style="font-family:'Helvetica'; font-size:12;">Purple is a minimal theme built on default jekyll theme. It is very light highly customizable. Suitable for minimal blogs.</tspan><tspan x="0" y="57.6" style="fill:#3B97D3; font-family:'Helvetica'; font-size:24;font-weight:bold">Sidebar</tspan><tspan x="0" y="72" style="font-family:'Helvetica'; font-size:12;">Webjeda Sidebar is an elegant theme which offers a nice toggleable sidebar. </tspan><tspan x="0" y="86.4" style="font-family:'Helvetica'; font-size:12;">The theme stands out in its features like changable color scheme and pre-installed sharebar, analytics and disqus. </tspan><tspan x="0" y="100.8" style="font-family:'Helvetica'; font-size:12;">It is suitable for all kinds of blogging.</tspan><tspan x="0" y="144" style="fill:#3B97D3; font-family:'Helvetica'; font-size:24;font-weight:bold">Thunder</tspan><tspan x="0" y="158.4" style="font-family:'Helvetica'; font-size:12;">Thunder is a lightning fast responsive theme based on default Jekyll theme. </tspan><tspan x="0" y="172.8" style="font-family:'Helvetica'; font-size:12;">It is minimal and free from JavaScript. It has a css file of size 5kb. This theme is best suited for minimal blogs.</tspan></text></svg>
+</div>
 
-![jekyll collection homepage](/images/jekyll-collection-homepage.JPG)
-{: .centered}
-
+<p></p>
 
 By clicking on one of them will open up the theme file we created in the beginning. which will look something like this
-
-![jekyll collection main page ](/images/jekyll-collections-main-page.JPG)
-{: .centered}
-
+<div style="border: 1px solid #aaa">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380.979"><text xmlns="http://www.w3.org/2000/svg" transform="matrix(1 0 0 1 64.5713 81.3892)"><tspan x="0" y="0" style="font-family:'Helvetica';font-weight:bold; font-size:28;">Features</tspan><tspan x="0" y="43.2" style="font-family:'Helvetica';font-weight: semibold; font-size:24;">Customizable theme</tspan><tspan x="0" y="72" style="font-family:'Helvetica'; font-size:12;">The theme can be customized just by changing few variables in </tspan><tspan x="339.379" y="72" style="font-family:'Helvetica';font-weight:bold; font-size:12;">_config.yml</tspan><tspan x="408.838" y="72" style="font-family:'Helvetica'; font-size:12;"> file.</tspan><tspan x="0" y="115.2" style="font-family:'Helvetica';font-weight: semibold; font-size:24;">Lightweight</tspan><tspan x="0" y="144" style="font-family:'Helvetica'; font-size:12;">Since the theme is based on default Jekyll theme, it is very lightweight. No JavaScript except analytics is used!</tspan><tspan x="0" y="187.2" style="font-family:'Helvetica';font-weight: semibold; font-size:24;">Pre-installed features</tspan><tspan x="0" y="216" style="font-family:'Helvetica'; font-size:12;">Analytics and Disqus are pre-installed in this theme. You can set it up in </tspan><tspan x="383.006" y="216" style="font-family:'Helvetica';font-weight:bold; font-size:12;">_config.yml</tspan><tspan x="452.465" y="216" style="font-family:'Helvetica'; font-size:12;"> file. If left blank, these features will not load!</tspan><tspan x="0" y="244.8" style="fill:#3B97D3; font-family:'Helvetica'; font-weight:semibold; font-size:12;">Demo</tspan></text></svg>
+</div>
+<p></p>
 
 This is how Jekyll Collections are made. For a real example, take a look my **Themes** section.
 
