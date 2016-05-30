@@ -162,6 +162,6 @@ I created this website using foundation framework which is similar to bootstrap.
 </p>
 </div>
 
-Don't forget to post the link to your website created on Github Pages. And comment if you are stuck in any of the steps above.
+I hope that helped. Please ask me any doubts you have in the comment section.
 
 Thanks for reading!
