@@ -1,6 +1,6 @@
 ---
 title: Adding comments to Jekyll blog
-desc: Jekyll themes are pretty neat with bare minimum options. Jekyll blog comments is not included by default. WordPress blogs have comments by default. What if we want it in our Jekyll blog as well? We have a cleaner and better option in Jekyll...
+desc: Comments is not included in Jekyll blog by default. Unlike WordPress, we have to integrate comments to Jekyll blog ourselves. With this tutorial, learn how to do just that.
 keywords: add comments to Jekyll blog, add disqus to Jekyll, disqus Jekyll
 author: sharathdt
 tags: Jekyll SEO
