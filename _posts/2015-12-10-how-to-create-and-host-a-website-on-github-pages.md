@@ -152,7 +152,7 @@ To host your website in user pages, follow the same procedure mentioned above bu
 If you want a clear idea on how to host website usig user pages then please refer to this repository - [webjeda](https://github.com/sharu725/sharu725.github.io){:rel='nofollow'}{:target="_blank"}.
 It has no **gh-pages** branch. I'm hosting it on the master branch. To do that, you have to rename your repository to this format **username.github.io**. Here, the username is your github username. My github username is sharu725(for webjeda).
 
-If you access [http://sharu725.github.io](http://sharu725.github.io){:rel='nofollow'}{:target="_blank"} then you will end up in webjeda.com. This redirection happens after setting up a custon doamin name.
+If you access [http://sharu725.github.io](http://sharu725.github.io){:rel='nofollow'}{:target="_blank"} then you will end up in webjeda.com. This redirection happens after setting up a custom doamin name.
 
 I created this website using foundation framework which is similar to bootstrap. You can always use a template from [html5up](html5up.net){:rel='nofollow'}{:target="_blank"} which provides pretty good templates for free.
 
