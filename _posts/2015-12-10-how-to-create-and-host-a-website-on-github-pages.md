@@ -51,6 +51,10 @@ My tutorial given here is for **Project Pages**. Go to the bottom to see how you
 
 {% include adsense-inside-post.html %}
 
+
+If you are not familiar with the 'Branch' concept used in github then here is a simple explaination.
+Imagine your repository as a tree. Tree has the main stump which is the ``master branch``. This main stump can branch out into many branches. One of those is ``gh-pages`` branch. Github considers the code inside ``gh-pages`` branch as a website similar to other hosting services which consider ``public_html`` folder as website directory.
+
 ## Step 1: Create a repository
 
 I hope you have signed up for a Github account. Otherwise, you can [sign up for free here](https://github.com). Once you have signed up, you will have to create a repository by clicking on the **+** symbol on the top-right corner as shown in the screenshot.
@@ -154,7 +158,7 @@ I created this website using foundation framework which is similar to bootstrap.
 
 <div class="tips">
 <h3>Free Web Hosting on Github!</h3>
-<p>Now that you know you can host a website on Github Pages without paying for any hosting service, you can also host complete websites on Github Pages. If you are a freelance web designer then do consider this option for all the client websites which doesn't need constant changes. I use this for all the portfolio websites I get to design. Read to know <a href="/sync-files-folders-github/"><strong>how to host a complete website on Github Pages</strong></a>
+<p>Now that you know you can host a website on Github Pages without paying for any hosting service, you can also host complete websites on Github Pages. If you are a freelance web designer then do consider this option for all the client websites which doesn't need constant updates. I use this for all the portfolio websites I get to design. Read to know <a href="/sync-files-folders-github/"><strong>how to host a complete website on Github Pages</strong></a>
 </p>
 </div>
 
