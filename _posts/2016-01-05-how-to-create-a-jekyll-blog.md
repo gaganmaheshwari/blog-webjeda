@@ -1,6 +1,6 @@
 ---
 title: How to Create a Beautiful Jekyll Blog?
-desc: I created this beautiful looking Jekyll blog using default Jekyll template. You can also do this or fork a theme to make it yours. Jekyll is a simple blog generator. The community is growing and the number of plugins is also growing. Learn how to create Jekyll blog. 
+desc: I created this beautiful looking Jekyll blog using default Jekyll template. You can also host your blog on github using Jekyll. Jekyll is a simple blog generator. Jekyll blogs creation is easy, simple and efficient. Learn how to create Jekyll blog. 
 keywords: create Jekyll blog, blogging on Jekyll, github blogging
 author: sharathdt
 tags: Jekyll Web-Design
