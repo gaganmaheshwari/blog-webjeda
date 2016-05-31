@@ -52,7 +52,13 @@ Once this is done, clear cache from the browser and load your website locally (`
 ### Step 2: Remove unnecessary files
 For a font to load, modern browsers just need ``woff`` file. So other files such as ``woff2``, ``ttf``, ``eot``, ``svg`` are not necessary. So delete all these files from the **fonts** folder and leave only ``fontawesome-webfont.woff``.
 
+![font awesome contents](/images/optimize-fontawesome-css.jpg)
+{: .right .half}
+
+Font awesome has **less** and **scss** variants which you can use or delete them. Since using only the css variant, so I'm deleting others. So **css** and **fonts** folders are enough to work with.
+
 ### Step 3: Edit the font file
+{: .clear}
 This step needs an application. Go to [FontForge](http://fontforge.github.io/en-US/){:rel='nofollow'}{:target="_blank"}, download and install the application.
 
 Open ``fontawesome-webfont.woff`` with this application and find the glyphs. You may have to scroll down a lot. You can go to **Encoding** then click on **Compact** to get them right on the top.
