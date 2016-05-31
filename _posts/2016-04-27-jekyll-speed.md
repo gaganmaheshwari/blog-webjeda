@@ -292,6 +292,9 @@ This feature comes in handy if your website has a lot of images or other similar
 ### 10. Request only the required font
 If you are using Google fonts, then load only the required font variation. If you want Open sans font for your paragraph text then do not select **Extra-Bold** or **Light** variations. All you need is the **Regular** style.
 
+If you are using Bootstrap or Fontawesome then delete whatever you don't use (keep a backup file though).
+**Read:** [How to reduce fontawesome to 10KB!](/optimize-fontawesome/){:target="_blank"}
+
 ![Jekyll speed optimization by tweaking google font loading](/images/jekyll-speed-optimization-google-font-optimization.jpg){:width="700px" max-height="187px" .full}
 
 Google actually has a scale on the right side showing how page load increases on selecting more variations of the font. More types you select heavier the font css becomes which in turn increases the page load time.
