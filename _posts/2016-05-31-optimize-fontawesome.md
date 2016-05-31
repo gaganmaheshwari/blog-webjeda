@@ -1,5 +1,5 @@
 ---
-title: Optimize Font awesome to 10KB!
+title: Optimize Font Awesome to 10KB!
 desc: Font Awesome is a huge css file. We can optimize it for only used cases and trim it down to just 10KB! Use this method to reduce the size of font awesome.
 keywords: 
 author: sharathdt
