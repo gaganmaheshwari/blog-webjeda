@@ -68,7 +68,7 @@ Now clear any glyph you think is not necessary and you do not use it in the futu
 ![edit fontawesome webfont](/images/edit-fontawesome-webfont.jpg)
 {: .right .half}
 
-I use icons for share bar, footer and mostly on about page. So I kept those icons and cleared out everything else. Now, click on **File** and then in **Generate Fonts**. Save it with any name you like. 
+I use icons for share bar, footer and mostly on about page. So I kept those icons and cleared out everything else. Hold **Shift** for multiple selection. Now, click on **File** and then in **Generate Fonts**. Save it with any name you like. 
 
 This file is your new web font ``woff`` that should be used inside fonts folder. It is better to rename it back to ``fontawesome-webfont.woff`` and replace the original with this one.
 
