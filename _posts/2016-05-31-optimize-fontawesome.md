@@ -4,7 +4,7 @@ desc: Font Awesome is a huge css file. We can optimize it for only used cases an
 keywords: 
 author: sharathdt
 image: optimize-fontawesome.svg
-tags: Jekyll Web-Design
+tags: Web-Design
 permalink: /optimize-fontawesome/
 ---
 
