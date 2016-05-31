@@ -142,7 +142,7 @@ If you put this in your website, it will look like this: <a href="https://feedbu
 
 
 This is how it looks like: <a href="https://feedburner.google.com/fb/a/mailverify?uri=webjedablog&amp;loc=en_US" onclick="window.open(this.href, 'mywin',
-          'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" ><i class="fa-rss-square fa"></i></a>
+          'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" ><i class="fa-rss fa"></i></a>
 
 I'm using font-awesome CSS here. If you have called this link in the head tag already then there is no need to include it again. Also instead of ```<i>``` tag, you can use ```<img>``` and provide the icon source. The code has a **onclick** attribute which makes sure the link opens up as a pop-up.
 
