@@ -117,7 +117,7 @@ Since the style used in this theme is very less, I'm inlining it. This will save
 ## Light-weight
 Since the theme is based on default Jekyll theme, it is very light-weight. No JavaScript except analytics is used!
 
-[**Demo**]({{page.link}})
+[**Preview**]({{page.link}})
 
 {% endraw %}{% endhighlight %}
 
@@ -126,7 +126,7 @@ Since the theme is based on default Jekyll theme, it is very light-weight. No Ja
 
 ## Jekyll collection index
 
-So I have two themes in my Theme collection. How to show them on a page? we have to create an index file. Create a file with them name **themes.md** in the root. 
+So I have two themes in my Theme collection. How to show them on a page? we have to create an index file. Create a file with the name **themes.md** in the root. 
 
 {% highlight html %}{% raw %}
 {% for themes in site.themes %}
@@ -141,7 +141,7 @@ So I have two themes in my Theme collection. How to show them on a page? we have
 {% endfor %}      
 {% endraw %}{% endhighlight %}
 
-Above liquid syntax will find all the theme files inside **_themes** folder and list them out along with their title and description. I have also included images in my theme collection using {{page.image}}. For simplicity, I haven't included it here. This will render a theme list like this.
+Above liquid syntax will find all the theme files inside **_themes** folder and list them out along with their title and description. I have also included images in my theme collection using ``{% raw %}{{page.image}}{% endfor %}``. For simplicity, I haven't included it here. This will render a theme list like this.
 <div style="border: 1px solid #aaa">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 639.007 213.476" >
 <text transform="matrix(1 0 0 1 21.2764 29.0781)"><tspan x="0" y="0" style="fill:#3B97D3; font-family:'Helvetica'; font-size:24;font-weight:bold">Purple</tspan><tspan x="0" y="14.4" style="font-family:'Helvetica'; font-size:12;">Purple is a minimal theme built on default jekyll theme. It is very light highly customizable. Suitable for minimal blogs.</tspan><tspan x="0" y="57.6" style="fill:#3B97D3; font-family:'Helvetica'; font-size:24;font-weight:bold">Sidebar</tspan><tspan x="0" y="72" style="font-family:'Helvetica'; font-size:12;">Webjeda Sidebar is an elegant theme which offers a nice toggleable sidebar. </tspan><tspan x="0" y="86.4" style="font-family:'Helvetica'; font-size:12;">The theme stands out in its features like changable color scheme and pre-installed sharebar, analytics and disqus. </tspan><tspan x="0" y="100.8" style="font-family:'Helvetica'; font-size:12;">It is suitable for all kinds of blogging.</tspan><tspan x="0" y="144" style="fill:#3B97D3; font-family:'Helvetica'; font-size:24;font-weight:bold">Thunder</tspan><tspan x="0" y="158.4" style="font-family:'Helvetica'; font-size:12;">Thunder is a lightning fast responsive theme based on default Jekyll theme. </tspan><tspan x="0" y="172.8" style="font-family:'Helvetica'; font-size:12;">It is minimal and free from JavaScript. It has a css file of size 5kb. This theme is best suited for minimal blogs.</tspan></text></svg>
