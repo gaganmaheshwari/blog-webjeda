@@ -123,7 +123,7 @@ Since the theme is based on default Jekyll theme, it is very light-weight. No Ja
 
 {% include adsense-inside-post.html %}
 
-{% include adsense-inside-post.html %}
+
 
 
 ## Jekyll collection index

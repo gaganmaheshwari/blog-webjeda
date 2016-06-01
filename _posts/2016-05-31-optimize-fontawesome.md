@@ -36,6 +36,8 @@ Basic idea is to edit the font file to make it as small as possible. Removing un
 
 Removing glyphs reduced the ``woff`` file size from 90KB to 8.5KB. And removing unwanted css from ``fontawesome.min.css`` reduced the size to 2KB from 30KB. The overall size of font awesome after optimizing is around 11KB!
 
+{% include adsense-inside-post.html %}
+
 ### Step 1: Localize Font awesome
 We cannot edit font served from CDN. So we should use font awesome locally. Remove the font awesome CDN link from the head tag if you are using it. Go to http://fontawesome.io/ and download the latest version of fontawesome. Unzip and keep it in the website repository. In our case, the root of the repository.
 
