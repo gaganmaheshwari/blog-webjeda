@@ -27,14 +27,14 @@ A simple website uses at least 4 to 5 icons. If we include share button icons an
 Font awesome makes a web designers life easy. Adding icons is as simple as adding a ``<h1>`` tag. Resizing is done through attributes, flipping, stacking, spinning is all possible with font awesome. But apart from those 10 icons we use and some styles, all other icons are of no use to us. They load along with the ones we need. Though font awesome is cached by browsers since many websites use it, we have to give attention to first-time visitors who may have a browser without cached font awesome css. Moreover, font awesome version updation is done every time new icons are added and you should also keep version of the CDN link up to date.
 
 ## Why should we optimize font awesome?
-Since it is a huge file, we have to trim it down to our needs. If we are using only 10 icons then wy do we need 100 other icons? The size of font awesome web font is 90KB by the time I'm writing this article. Added to that, minified font awesome css is 30KB. so overall 120KB! What I'm trying is to reduce this to below 12KB which is more than **90%** compression!!
+Since it is a huge file, we have to trim it down to our needs. If we are using only 10 icons then wy do we need 100 other icons? The size of font awesome web font is 90KB by the time I'm writing this article. Added to that, minified font awesome css is 30KB. So overall 120KB! What I'm trying is to reduce this to below 12KB which is more than **90%** compression!!
 
 Imagine how fast the icons will load! After implementing this, my website scored 89% on Google pagespeed insights. It used to be 52%!
 
 ## How can we optimize font awesome?
 Basic idea is to edit the font file to make it as small as possible. Removing unwanted glyphs will reduce the size drastically. But we should analyze our website to make sure we note down all the font awesome icons that are in use.
 
-Removing glyphs reduced the ``woff`` file size from 90KB to 8.5KB. And removing unwanted css from ``fontawesome.min.css`` reduced the size to 2KB from 30KB. The overall size of font awesome after optimizing is around 11KB!
+Removing unused glyphs reduced the ``woff`` file size from 90KB to 8.5KB. This size depends on how many icons you need. The size increase with the increase in the number of icons. Removing unwanted css from ``fontawesome.min.css`` reduced the size to 2KB from 30KB. The overall size of font awesome after optimizing is around 11KB!
 
 {% include adsense-inside-post.html %}
 
