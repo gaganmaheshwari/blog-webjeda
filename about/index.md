@@ -59,6 +59,8 @@ If you are looking for a modern, fast loading, visually appealing website, then 
 ## Major changes
 <pre>
 
+30th May - Reduced Fontawesome size to 10KB!
+
 25th May - Sitemap link was replaced with Themes. A new Jekyll theme collection.
 
 30th April - Some speed optimization and changed paragraph font to Source serif pro.

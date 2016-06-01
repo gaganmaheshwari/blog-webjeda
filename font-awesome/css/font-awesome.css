@@ -178,4 +178,6 @@ fa-youtube-square:before {
 .fa-circle-o:before {
   content: "\f10c";
 }
-
+.fa-circle-thin:before {
+    content: "\f1db";
+}
