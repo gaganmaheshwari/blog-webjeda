@@ -22,7 +22,7 @@ adallow: 0
   <ul class="past">
   {% endif %}
   {% endunless %}
- <li class="arch-list"><i class="fa fa-flash"></i>&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a>&nbsp;<time>{{ post.date | date:"%d %b" }}</time></li>
+ <li class="arch-list"><i class="fa fa-circle-o"></i>&nbsp;<time>{{ post.date | date:"%d %b" }}</time>&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
   </ul>
 </section>

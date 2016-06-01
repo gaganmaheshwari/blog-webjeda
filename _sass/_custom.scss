@@ -432,8 +432,8 @@ a.page-num:hover {
     color: #777;
 }
 
-.fa-flash {
-    color: $highlight-color;
+.fa-circle-o {
+    color: $brand-color;
 }
 
 
@@ -580,6 +580,9 @@ div#footer-icons {text-align: center; }
     margin: 0;
 }
 
+ul.contact-ul {
+    padding: 10px;
+}
 
 .contact-li {
     list-style: none;
@@ -594,7 +597,7 @@ div#footer-icons {text-align: center; }
 
 .contact-input:focus {
     outline:none;
-    border-bottom: 1px solid $highlight-color;
+    border-bottom: 1px solid $brand-color;
 }
 
 .contact-label {
@@ -603,13 +606,14 @@ div#footer-icons {text-align: center; }
 
 #submit {
     border:none;
-    background-color: $highlight-color;
+    background-color: $brand-color;
     padding: 5px 15px;
     color: #eee;
 }
 
 #submit:hover {
     box-shadow: 0px 0px 5px #aaa;
+    cursor: pointer;
 }
 
 
