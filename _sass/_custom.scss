@@ -750,3 +750,25 @@ a.btn {
     color: red;
 }
 
+.btn-lg {
+    background-color: $brand-color;
+    border: 1px solid $brand-color;
+    border-radius: 4px;
+    opacity: 0.9;
+    width: 40%;
+    height: 34px;
+    color: #eee;
+    font-weight: bold;
+    font-size: 1em;
+    box-shadow: 0px 0px 1px #636262;
+    text-align: center;
+    
+}
+.btn-lg:hover {
+    opacity: 1;
+    box-shadow: none;
+    cursor: pointer;
+}
+div#disqus_thread {
+    text-align: center;
+}
