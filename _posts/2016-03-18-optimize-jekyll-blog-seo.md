@@ -1,6 +1,6 @@
 ---
-title: How to optimize Jekyll blog for SEO?
-desc: Jekyll Search Engine Optimization is left to the users. Initially, SEO optimizing Jekyll was hard but gradually it has been easier since we have so many people contributing to the community. Learn how to do Jekyll SEO. 
+title: 9 Basic SEO optimizations for a Jekyll Blog
+desc: Jekyll SEO is something I struggled hard to figure out since I moved from WordPress. Initially,it was hard but gradually I found out that we can do a lot of things using liquid syntax. I have discussed  
 keywords: 
 author: sharathdt
 tags: SEO Jekyll
