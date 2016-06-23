@@ -77,6 +77,6 @@ This file is your new web font ``woff`` that should be used inside fonts folder.
 Test the website again to check whether all the icons are loading(they should) and push changes. This can be further optimized by converting the font to base64 and hence reducing one more request!
 
 ## Conclusion
-We may use Bootstrap, Font awesome or any similar web font in our website. But make sure to optimize them to use only things that are necessary. Every byte you save, every request you reduce improves page speed by milliseconds. Even a single millisecond improvement in page speed matters. 
+You may use Bootstrap, Font awesome or any similar web font in your website. But make sure you optimize them to use only things that are necessary. Every byte you save, every request you reduce improves page speed by milliseconds. Even a single millisecond improvement in page speed matters. 
 
 Thanks for reading!
