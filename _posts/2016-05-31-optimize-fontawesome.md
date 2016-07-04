@@ -31,6 +31,10 @@ Since it is a huge file, we have to trim it down to our needs. If we are using o
 
 Imagine how fast the icons will load! After implementing this, my website scored 89% on Google pagespeed insights. It used to be 52%!
 
+* Do not remove this line (it will not be displayed) 
+{:toc}
+
+
 ## How can we optimize font awesome?
 Basic idea is to edit the font file to make it as small as possible. Removing unwanted glyphs will reduce the size drastically. But we should analyze our website to make sure we note down all the font awesome icons that are in use.
 
