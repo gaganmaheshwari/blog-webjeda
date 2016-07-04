@@ -1,6 +1,6 @@
 ---
 title: How to use Jekyll Categories and Tags?
-desc: I'm using tags in my Jekyll blog without using any plugin. Categorizing any content helps users to find what they are looking for or to find more information on a certain type of content.
+desc: I have implemented tags in my Jekyll blog without using any plugin. Categorizing any content helps users to find what they are looking for or to find more information on a certain type of content.
 keywords: 
 author: sharathdt
 image: jekyll-categories.png
